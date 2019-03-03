@@ -4,6 +4,6 @@
   display: none;
 }
 
-.slick {
+img[alt="slick"] {
   display:none;
 }
